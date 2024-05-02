@@ -41,3 +41,9 @@ This project provided an opportunity to practice and solidify basic HTML, CSS, a
 This project was completed as part of the FreeCodeCamp curriculum. Special thanks to the FreeCodeCamp community for providing valuable resources and guidance throughout the learning process.
 
 ---
+
+Buy Me Coffe 
+
+<a href="https://buymeacoffee.com/jonesdubard1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
